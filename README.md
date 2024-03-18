@@ -1,1 +1,1 @@
-# Memoise.ts
+# Memoise
